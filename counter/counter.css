@@ -1,0 +1,20 @@
+#num{
+    font-size: 6em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.btcls{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+.bt{
+    padding: 12px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: skyblue;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
